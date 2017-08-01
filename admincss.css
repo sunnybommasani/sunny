@@ -1,0 +1,28 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  height: 100vh;
+  background: url("akhil.jpg") 50% fixed;
+  background-size: cover;
+  opacity: 0.5;
+}
+ button {
+                border: 2px solid yellow;
+                color: white;
+                background-color: black;
+                font-size: 30px;
+            }
+            
+            button:hover {
+                border: 2px solid yellow;
+                color: yellow;
+                background-color: black;
+                font-size: 30px;
+            }
+            
+            #form1 {
+                visibility: hidden;
+            }
+            
+            #form2 {
+                visibility: hidden;
+            }
